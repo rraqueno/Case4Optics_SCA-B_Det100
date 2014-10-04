@@ -1,0 +1,17 @@
+ENVI
+description = {
+  ENVI File, Created [Tue Jul 08 20:04:24 2014]}
+samples = 32
+lines   = 1
+bands   = 1
+header offset = 0
+file type = ENVI Spectral Library
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Case4Optics_SCA-B_Det100}
+spectra names = {
+ Case4Optics_SCA-B_Det100}
